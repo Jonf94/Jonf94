@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jon Francis
 - 👀 I’m interested in all things within the realm of cyber security and cloud computing
-- 🌱 I’m currently learning Cloud Architecture
+- 🌱 I’m currently learning Cloud based services along with Architecture & Security
 - 📫 How to reach me on linkedin (https://www.linkedin.com/in/jon-francis-8861a716b)
 <!---
 Jonf94/Jonf94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
